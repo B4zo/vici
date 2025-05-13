@@ -1,0 +1,48 @@
+*
+# .gitignore
+!/.gitignore
+# README
+!/README.md
+!/TODO.md
+# Parent directories
+!htdocs/
+!htdocs/img/
+!htdocs/template/
+!htdocs/template/css/
+!htdocs/template/php/
+!php/
+!database/
+# Images
+!htdocs/img/bg.jpg
+!htdocs/img/vici.si.png
+!htdocs/vici.si.ico
+# CSS
+!htdocs/template/css/stylesheet.css
+# PHP
+!htdocs/template/php/auth.php
+!htdocs/template/php/db.php
+!htdocs/template/php/uuid.php
+!htdocs/template/db.html.php
+!htdocs/template/auth.html.php
+!htdocs/template/error.html.php
+!htdocs/template/index.html.php
+!htdocs/template/layout.html.php
+!htdocs/template/login.html.php
+!htdocs/template/logout.html.php
+!htdocs/template/signup.html.php
+!htdocs/template/profile.html.php
+!htdocs/template/changepassword.html.php
+!htdocs/template/editor.html.php
+!htdocs/template/forbidden.html.php
+!htdocs/template/forgotpassword.html.php
+!htdocs/template/recents.html.php
+!htdocs/template/studio.html.php
+!htdocs/template/verify.html.php
+!htdocs/index.php
+# .htaccess
+!htdocs/.htaccess
+# .ini
+!php/php.ini
+# database
+!database/vici.sql
+!database/vici.json

@@ -1,0 +1,52 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"vici"},
+{"type":"table","name":"category","database":"vici","data":
+[
+{"id":"1","category":"Brez"},
+{"id":"2","category":"Blondinka"},
+{"id":"3","category":"Policijski"},
+{"id":"4","category":"Janezek"}
+]
+}
+,{"type":"table","name":"forgotpassword","database":"vici","data":
+[
+
+]
+}
+,{"type":"table","name":"posts","database":"vici","data":
+[
+{"contentUUID":"09944868-1c62-11f0-a4da-4cedfb96eae1","userUUID":"38c8ad28-48cf-46b9-a623-9214192b49be","title":"First post!","body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nisi mauris, sollicitudin id faucibus vulputate, convallis in augue. Mauris condimentum risus vitae efficitur bibendum. Morbi sapien elit, condimentum vel euismod vel, cursus eu diam. Integer non volutpat purus. Nam sollicitudin ut neque non posuere. Phasellus bibendum massa ac neque laoreet scelerisque. Quisque a purus nisl. Mauris vitae ligula in risus semper accumsan. Quisque dapibus turpis a tincidunt elementum. Cras felis ex, tempus et vehicula non, sollicitudin non diam. Vivamus ut iaculis dolor. Vestibulum et vestibulum tortor.\n\nDonec eleifend enim a neque pretium, mattis facilisis neque vestibulum. Morbi fermentum vel enim id rutrum. Morbi egestas tincidunt pharetra. Nullam non diam eget mauris fermentum accumsan venenatis efficitur metus. Donec vitae ipsum sed mi accumsan venenatis quis ac mauris. Sed dictum semper ex et consectetur. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.\n\nVivamus mauris nisl, porta sed nisl nec, pellentesque gravida libero. Cras eget porta est. Vivamus id facilisis sem, quis tempus arcu. Nulla facilisi. Proin mollis urna ac ligula dapibus sagittis. Maecenas venenatis arcu ipsum, in faucibus orci convallis at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam quis condimentum odio, a elementum odio. Donec in ante risus. Nullam dolor augue, consectetur vel bibendum sed, auctor sed odio. Sed at diam eu magna efficitur faucibus. Praesent euismod nisi vitae ex interdum, elementum tristique felis interdum. Curabitur at ex in urna blandit rutrum. Nullam placerat massa neque, et aliquet ipsum rhoncus sed. Aliquam convallis diam turpis, a rhoncus enim euismod ac.\n\nSed sem odio, pulvinar sed blandit id, ullamcorper ac arcu. Phasellus elementum, justo non tristique iaculis, mauris augue vehicula ante, ut egestas lectus mi sit amet odio. Maecenas mi metus, imperdiet eget euismod nec, condimentum in erat. Etiam posuere augue in nisi consequat, pulvinar placerat quam posuere. Aenean turpis velit, maximus tincidunt tempus sit amet, dictum at nisl. Nunc congue maximus purus non luctus. Quisque et ligula id ante sodales vulputate. Nulla a sollicitudin ligula. Nulla luctus dictum leo, non feugiat leo tempus ut. Aliquam erat volutpat. Donec pulvinar rhoncus ante, sed porttitor elit vehicula ut. Ut sit amet interdum turpis, sit amet vestibulum sem. Nam id arcu finibus, tristique lorem vel, placerat nisl. Sed vitae ipsum vitae nisl cursus dictum. Nunc varius eros in augue hendrerit, id varius sem blandit. Sed sit amet consectetur eros.\n\nMorbi feugiat elit neque, sed tempus dui lobortis quis. Maecenas cursus, mi quis maximus lobortis, mauris odio hendrerit sem, ac dictum mauris lectus semper urna. Aliquam lectus purus, venenatis ut malesuada et, interdum sit amet augue. Sed laoreet tincidunt interdum. Sed vitae ultricies velit, at consequat purus. Sed efficitur sollicitudin lobortis. Maecenas vel dapibus nisl. ","category":"2","public":"1","created":"2025-04-18 16:31:53","modified":"2025-04-18 16:31:53"},
+{"contentUUID":"12b1b3a7-1c64-11f0-a4da-4cedfb96eae1","userUUID":"38c8ad28-48cf-46b9-a623-9214192b49be","title":"Second post!","body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non efficitur nunc. Etiam vitae sollicitudin leo. Sed sit amet mollis mauris. Sed suscipit mauris a nibh commodo, ac suscipit dui condimentum. Nulla faucibus, libero eget viverra accumsan, tortor neque consectetur enim, at tempus magna eros at nisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis vel quam aliquet, sagittis tortor sit amet, sollicitudin enim. Suspendisse euismod enim eget nunc congue varius. Mauris viverra commodo dolor, et bibendum est placerat id. Integer ac augue non libero pellentesque tincidunt. Nunc a maximus ante, sit amet ultricies odio. In pharetra aliquet tortor vitae euismod. Ut at ante mauris. Integer laoreet, enim ut molestie fringilla, dui eros faucibus ex, nec ullamcorper odio arcu sollicitudin libero. Ut vel finibus velit. Duis ultricies arcu sed rutrum sagittis.","category":"3","public":"1","created":"2025-04-18 16:47:10","modified":"2025-04-18 16:47:10"},
+{"contentUUID":"2ff01d17-029b-4551-9daf-f815566e1349","userUUID":"5889a4a5-2835-457d-92db-938cc3938936","title":"Matej Krumpeč","body":"awdawdawdawdawdawdwadawdawd","category":"3","public":"1","created":"2025-05-12 19:12:25","modified":"2025-05-13 21:08:54"},
+{"contentUUID":"5921957d-ccd5-4160-a0c0-fa8c80cce58c","userUUID":"5889a4a5-2835-457d-92db-938cc3938936","title":"Janez je skočo!!!","body":"Janez se je bujo ker je do 4 vgojno delo z nrsa in se učil slovenščino","category":"4","public":"1","created":"2025-05-13 21:09:02","modified":"2025-05-13 21:09:58"},
+{"contentUUID":"96d4fbe6-9720-438b-a8c4-0cd0347297e5","userUUID":"5889a4a5-2835-457d-92db-938cc3938936","title":"Hello, World!","body":"Lorem efefegwgrg rfg thhthtghytrg r ghehhyh  he h er her here ftghtththth hth th ththththhdhdrferhafherthbnrzjnrztf geg edthb rfzjnrfhjrf zjnhfrzgtnhj rftzjn rzghjnzghjghderfghbrdtgfhjn frzghjndtzfghrdtfeswr4dg detfghbnrztfghbrfewsrujkhgzftdresw  rtgzhgftdressrtzhujhgzftrdewsrtgzh rewerftgzhujmhjgfewerftgzhujhgztrewertz hrewqerftgzhgjmgf erthjgfte ","category":"2","public":"0","created":"2025-05-12 17:05:42","modified":"2025-05-13 21:12:45"},
+{"contentUUID":"a919e49e-6d10-4ee1-9f9d-1e9234957844","userUUID":"38c8ad28-48cf-46b9-a623-9214192b49be","title":"Third post!","body":"Lorem","category":"1","public":"1","created":"2025-04-18 23:30:08","modified":"2025-04-18 23:41:43"},
+{"contentUUID":"c0e3b87f-9c63-4431-8663-1201725be4d0","userUUID":"5889a4a5-2835-457d-92db-938cc3938936","title":"Nov osnutek","body":"","category":"2","public":"1","created":"2025-05-12 19:43:11","modified":"2025-05-13 21:05:30"}
+]
+}
+,{"type":"table","name":"sessions","database":"vici","data":
+[
+{"userUUID":"38c8ad28-48cf-46b9-a623-9214192b49be","token":"c902a8448a4cef38948fd59a48b5ae367143d660af5727005bd910b432723dbe","created":"0000-00-00 00:00:00","lastLogin":"2025-05-12 18:08:04","attempts":"0"},
+{"userUUID":"5889a4a5-2835-457d-92db-938cc3938936","token":"436fcdfc19a80f7e9afa8a38b605e7a914dd815043d5d03698193c6247a13702","created":"2025-05-12 18:01:31","lastLogin":"2025-05-13 20:16:15","attempts":"0"},
+{"userUUID":"7821ba34-5319-4182-8241-27c155019232","token":"71ff587fac7b352e48ea68f01b63e90331ab676d586a653b0007705ccccfe6a4","created":"0000-00-00 00:00:00","lastLogin":"2025-05-12 19:01:24","attempts":"0"},
+{"userUUID":"adb4cd02-210e-4e73-afd8-d038b0eeb14e","token":"c7c89edf76d722f3e789191ee2965cfc71b95809b1c5c0e4674bf53832e89cbb","created":"2025-05-13 15:09:03","lastLogin":"2025-05-13 16:38:03","attempts":"0"}
+]
+}
+,{"type":"table","name":"users","database":"vici","data":
+[
+{"userUUID":"01d3492b-5e70-4ed4-b4bd-0f1f6eb02c7e","username":"Aljaz5","email":"aljaz.skafar14534@gmail.com","password":"$2y$10$6CrcAsLCGroYjU7Cwom9Uu4PIvmI6JgTl2cuhaASrWX9gwhbL3JRS","created":"2025-05-12 22:11:02","verified":"0","admin":"0","locked":"0"},
+{"userUUID":"093131ed-41a4-4983-b458-164294bce58a","username":"Aljaz4","email":"aljaz341524234566@gmail.com","password":"$2y$10$BbhCZJbKALU.8BcV3zl3jO8e2Wa0mZp44F\/f\/dWhlHVQVPN2pJAlC","created":"2025-05-12 20:43:08","verified":"0","admin":"0","locked":"0"},
+{"userUUID":"38c8ad28-48cf-46b9-a623-9214192b49be","username":"Aljaz","email":"aljaz.skafar12@gmail.com","password":"$2y$10$DmYoMFcth6t8\/0jPIxBtq.JRcuYNwHnMaWF3X6gMDW2O1YtvX4uTG","created":"2025-04-18 16:29:55","verified":"1","admin":"1","locked":"0"},
+{"userUUID":"5889a4a5-2835-457d-92db-938cc3938936","username":"Aljaz2","email":"aljaz-skafar@outlook.com","password":"$2y$10$6sAkhIkDDpdUzKrdWcA.buLGtO0bDnAkKQKXW2BR6QLOf9nO5oWK2","created":"2025-04-19 00:24:21","verified":"1","admin":"1","locked":"0"},
+{"userUUID":"7821ba34-5319-4182-8241-27c155019232","username":"Aljaz1","email":"aljaz.skafar10@gmail.com","password":"$2y$10$5IQTJV\/VBKgWcQR7fAUaBe8iPiEPUJ\/i10SiZPeKvCn8Tj95zUwcK","created":"2025-04-19 00:23:17","verified":"1","admin":"0","locked":"0"},
+{"userUUID":"9711e545-e60e-470d-ab70-3d771458d4b2","username":"Aljaz3","email":"aljaz.skafar100@gmail.com","password":"$2y$10$WHb1BHn3IQydOg7JDepdcOefux\/knYTOS3NzLO3YIskhqTeD1LyVa","created":"2025-05-12 20:12:43","verified":"0","admin":"0","locked":"0"},
+{"userUUID":"adb4cd02-210e-4e73-afd8-d038b0eeb14e","username":"Aljaz6","email":"aljaz.skafar1@gmail.com","password":"$2y$10$49r\/Pi9W898BwsRlpl4KwusuzxWQCdFOklJlr9chshgVLUldOKvHC","created":"2025-05-13 14:29:57","verified":"1","admin":"0","locked":"0"}
+]
+}
+,{"type":"table","name":"verification","database":"vici","data":
+[
+{"userUUID":"01d3492b-5e70-4ed4-b4bd-0f1f6eb02c7e","token":"8b92128daf41b544b1dba6bdb8ac6500"}
+]
+}
+]
